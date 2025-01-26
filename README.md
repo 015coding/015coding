@@ -25,7 +25,7 @@ Students
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/015coding"><img src="https://github-readme-stats.vercel.app/api?username=015coding&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="015coding's GitHub stats" /></a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=015coding&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <a href="http://www.github.com/015coding">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=015coding&theme=dark&hide_border=true" alt="GitHub Streak" />
 </a>
